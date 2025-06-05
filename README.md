@@ -26,9 +26,5 @@ MyRoutine is an Android application designed for students to manage their academ
 - **Architecture**: Activity-based  
 - **UI Components**: Material Design, Navigation Drawer
 
----
 
-
-
-## 📁 Folder Structure
 
